@@ -1,0 +1,16 @@
+Species,Lake,Potential_Habitat_SqKm,Refugia_Area_SqKm,Pct_Habitat_Protected,Mean_Safe_Haven_Index
+Walleye,Erie,1273.32,1195.56,93.9,5.12
+Walleye,Huron,0.0,0.0,0.0,3.78
+Walleye,Michigan,673.92,579.96,86.1,4.38
+Walleye,Ontario,790.56,790.56,100.0,4.28
+Walleye,Superior,233.28,230.04,98.6,3.79
+Yellow_Perch,Erie,32.4,29.16,90.0,3.27
+Yellow_Perch,Huron,48.6,48.6,100.0,3.03
+Yellow_Perch,Michigan,58.32,35.64,61.1,3.23
+Yellow_Perch,Ontario,55.08,55.08,100.0,3.34
+Yellow_Perch,Superior,45.36,42.12,92.9,2.98
+Lake_Whitefish,Erie,1551.96,1551.96,100.0,4.05
+Lake_Whitefish,Huron,48625.92,48625.92,100.0,7.32
+Lake_Whitefish,Michigan,33219.72,33171.12,99.9,6.58
+Lake_Whitefish,Ontario,11372.4,11372.4,100.0,6.91
+Lake_Whitefish,Superior,76775.04,76775.04,100.0,8.17
